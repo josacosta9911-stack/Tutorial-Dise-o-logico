@@ -1,4 +1,4 @@
-# Tutorial-Dise-o-logico
+# Tutorial-Diseñologico
 
 [TUTORIAL open_source_fpga_environment-main - copia.zip](https://github.com/user-attachments/files/21767431/TUTORIAL.open_source_fpga_environment-main.-.copia.zip)
 
