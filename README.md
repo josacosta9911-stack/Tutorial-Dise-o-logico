@@ -16,3 +16,6 @@ Uso de las herremientas
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/25f5a97b-e59f-48d7-a167-b78026c57a17" />
 
+Prueba de las herramientas de síntesis, simulación e implementación.
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a5dce095-ddfd-4d5b-b25b-4c75ee563d26" />
