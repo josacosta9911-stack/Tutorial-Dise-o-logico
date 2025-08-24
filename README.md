@@ -6,4 +6,4 @@
 
 Plantilla para proyectos 
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/be08f72c-abf0-453e-9284-4c8ab1052952" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/be08f72c-abf0-453e-9284-4c8ab1052952" />
