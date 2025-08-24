@@ -19,3 +19,7 @@ Uso de las herremientas
 Prueba de las herramientas de síntesis, simulación e implementación.
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a5dce095-ddfd-4d5b-b25b-4c75ee563d26" />
+
+Ruta al Makefile 
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/174173f3-f1bf-4e64-bc15-36a6f1f63923" />
