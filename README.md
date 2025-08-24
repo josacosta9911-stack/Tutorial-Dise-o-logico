@@ -11,3 +11,7 @@ Plantilla para proyectos
 Clonar el repositorio 
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1618fb4e-7b58-4d7c-9149-bc8b1bb0c354" />
+
+Uso de las herremientas 
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f4bb7308-6947-4be1-b8b2-48199f54761d" />
