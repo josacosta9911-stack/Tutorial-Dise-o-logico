@@ -59,6 +59,10 @@
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/cecaff01-8abf-45af-96dc-f5590a5ee5a1" />
 
 
+### Carpeta build del ejemplo lcd.spi 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/5bf7bbb4-0a4b-4087-a66f-80ad2da4f8e9" />
+
+
 
 
 
