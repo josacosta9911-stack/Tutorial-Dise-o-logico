@@ -14,4 +14,5 @@ Clonar el repositorio
 
 Uso de las herremientas 
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f4bb7308-6947-4be1-b8b2-48199f54761d" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/25f5a97b-e59f-48d7-a167-b78026c57a17" />
+
