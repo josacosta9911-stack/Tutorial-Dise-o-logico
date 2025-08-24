@@ -28,3 +28,6 @@ Verificacion de los diseños y comandos
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/90b71ee5-6cfd-4bbf-98a7-467c191ab799" />
 
+Diagramas de Tiempo
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b00ff955-0b9c-4282-99bf-ce565ef6db31" />
