@@ -23,3 +23,8 @@ Prueba de las herramientas de síntesis, simulación e implementación.
 Ruta al Makefile 
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/174173f3-f1bf-4e64-bc15-36a6f1f63923" />
+
+Verificacion de los diseños y comandos 
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/90b71ee5-6cfd-4bbf-98a7-467c191ab799" />
+
