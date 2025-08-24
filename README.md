@@ -31,3 +31,7 @@
 ### Diagramas de Tiempo
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b00ff955-0b9c-4282-99bf-ce565ef6db31" />
+
+### Verificar la sintaxis y sistetizar los diseños RTL 
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/42d6f69a-8f2c-4cd7-9f9b-9b71f3920652" />
