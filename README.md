@@ -61,6 +61,8 @@
 
 ### Carpeta build del ejemplo lcd.spi 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/5bf7bbb4-0a4b-4087-a66f-80ad2da4f8e9" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8660204d-49d4-44ce-9e3f-5733afa4864e" />
+
 
 
 
