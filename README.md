@@ -35,3 +35,31 @@
 ### Verificar la sintaxis y sistetizar los diseños RTL 
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/42d6f69a-8f2c-4cd7-9f9b-9b71f3920652" />
+
+### Place and router que contiene el diseño en la FPGA
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8cc587e8-7451-4a40-b9e6-191ad9c50558" />
+
+### Generar el biststeam 
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b79cd242-3f0a-428d-b1b7-f2163eb3bab5" />
+
+###   Cargar el bitsream 
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f2b597d4-4b82-4d13-a869-1feb2db6c4fb" />
+
+### Ejecutar todos los conmandos de implementacion fisica 
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7749c8ba-9578-4fff-913a-8624140ffe9f" />
+
+### Implementacion en la FPGA
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ca152925-169e-4b80-8190-85b448ec2ff2" />
+
+
+
+
+
+
+
+
