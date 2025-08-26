@@ -191,19 +191,33 @@ load: ${PROYECT}_${BOARD}.fs
 ```
 
 ## Testeo en la terminal 
+
 ### Ruta
+
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/322531a8-2b0b-4fbf-8797-4d5644bbf6c8" />
+
 ### make synth
+
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/48282f30-edae-4271-91bd-1638908606e9" />
+
 ### make pnr
+
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c6804460-452d-43a9-ab7b-f4dc450df40b" />
+
 ### make test
+
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/da4b75ff-29f5-48a5-8b0a-d8c102da1d7f" />
+
 ### make wv 
+
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f98d5f99-b9c8-470e-ba3c-26032b8b1c77" />
+
 ### make bitstream 
+
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/afa29693-06f8-40f8-9e05-2425cbae8c52" />
+
 ### make load 
+
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f7de4bfc-b992-4457-9f5f-ddfed8b86cc1" />
 
 
