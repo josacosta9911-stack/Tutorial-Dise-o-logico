@@ -219,6 +219,7 @@ load: ${PROYECT}_${BOARD}.fs
 ### make load 
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f7de4bfc-b992-4457-9f5f-ddfed8b86cc1" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/631e009f-93b3-49b8-ab6c-896739f05146" />
 
 
 
